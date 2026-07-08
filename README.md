@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/niveprasath/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/niveprasath/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/niveprasath/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/niveprasath/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/niveprasath/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/niveprasath/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niveprasath/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
