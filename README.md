@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/niveprasath/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/niveprasath/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0463-island-perimeter](https://github.com/niveprasath/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0885-spiral-matrix-iii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/niveprasath/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0463-island-perimeter](https://github.com/niveprasath/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0885-spiral-matrix-iii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/niveprasath/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/niveprasath/Leetcode-Problems/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
