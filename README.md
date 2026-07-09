@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/niveprasath/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/niveprasath/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/niveprasath/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/niveprasath/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/niveprasath/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/niveprasath/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/niveprasath/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/niveprasath/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/niveprasath/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Breadth-First Search
 |  |
 | ------- |
