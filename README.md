@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niveprasath/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0065-valid-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/niveprasath/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/niveprasath/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/niveprasath/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
