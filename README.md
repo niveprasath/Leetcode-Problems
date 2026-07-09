@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/niveprasath/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0885-spiral-matrix-iii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/niveprasath/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/niveprasath/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/niveprasath/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niveprasath/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
