@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/niveprasath/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/niveprasath/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/niveprasath/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/niveprasath/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/niveprasath/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/niveprasath/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/niveprasath/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
