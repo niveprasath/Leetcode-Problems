@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/niveprasath/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/niveprasath/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/niveprasath/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/niveprasath/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/niveprasath/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/niveprasath/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/niveprasath/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
