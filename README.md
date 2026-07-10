@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niveprasath/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/niveprasath/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/niveprasath/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/niveprasath/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/niveprasath/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,8 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
