@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/niveprasath/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/niveprasath/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0885-spiral-matrix-iii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niveprasath/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/niveprasath/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/niveprasath/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/niveprasath/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/niveprasath/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/niveprasath/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niveprasath/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niveprasath/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
