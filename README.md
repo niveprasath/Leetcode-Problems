@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/niveprasath/Leetcode-Problems/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/niveprasath/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/niveprasath/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/niveprasath/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/niveprasath/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/niveprasath/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/niveprasath/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/niveprasath/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/niveprasath/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/niveprasath/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/niveprasath/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/niveprasath/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/niveprasath/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/niveprasath/Leetcode-Problems/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/niveprasath/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/niveprasath/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/niveprasath/Leetcode-Problems/tree/master/0112-path-sum) |
 ## Enumeration
 |  |
 | ------- |
