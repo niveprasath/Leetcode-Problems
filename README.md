@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/niveprasath/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/niveprasath/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/niveprasath/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/niveprasath/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -234,9 +235,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/niveprasath/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/niveprasath/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/niveprasath/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niveprasath/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/niveprasath/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/niveprasath/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/niveprasath/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
